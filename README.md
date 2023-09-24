@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Pranjal Prateek
 
-![I am Data Analyst](https://drive.google.com/file/d/1jm4gFv5kHCUhn1KJNadOlcR7ojaOXUHF/view?usp=sharing)
+![I am Data Analyst](https://media1.tenor.com/images/bb51710526d85fa16b25b72f0fdee2b4/tenor.gif?itemid=5231559)
 
 
 🚀 Welcome to my GitHub profile! 🌟
