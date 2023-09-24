@@ -20,4 +20,4 @@ I'm a recent graduate with a degree in Computer Application and a Computer Scien
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pranjalprateek6&show_icons=true&theme=gruvbox&hide_border=true" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidsharma2002&theme=gruvbox&hide_border=true" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sidsharma2002&theme=gruvbox&hide_border=true" /></p>
