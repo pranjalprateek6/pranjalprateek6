@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Pranjal Prateek
-#### I am Data Analyst
-![I am Data Analyst](https://static.vecteezy.com/system/resources/previews/000/539/819/original/vector-data-word-lettering-illustration.jpg)
+## Hi there 👋, My name is Pranjal Prateek
+
+![I am Data Analyst](https://drive.google.com/file/d/1jm4gFv5kHCUhn1KJNadOlcR7ojaOXUHF/view?usp=sharing)
 
 
 🚀 Welcome to my GitHub profile! 🌟
