@@ -5,7 +5,7 @@
 
 🚀 Welcome to my GitHub profile! 🌟
 
-I'm a Computer Science enthusiast on a mission to unravel tech mysteries, one line of code at a time! 🤓 Currently, I'm on a thrilling journey pursuing my Bachelor's degree in Computer Application, with a laser-focused passion for Data Analysis, Artificial Intelligence, and Machine Learning. 🤖
+I'm a recent graduate with a degree in Computer Application and a Computer Science enthusiast on a mission to unravel tech mysteries, one line of code at a time! 🤓 During my academic journey, I developed a strong passion for Data Analysis, Artificial Intelligence, and Machine Learning. 🤖
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalprateek6&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalprateek6" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranjalprateek6" target="blank"><img src="https://img.shields.io/twitter/follow/pranjalprateek6?logo=twitter&style=for-the-badge" alt="pranjalprateek6" /></a> </p>
