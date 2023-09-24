@@ -18,6 +18,16 @@ I'm a recent graduate with a degree in Computer Application and a Computer Scien
 <a href="https://medium.com/@pranjalprateek9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranjalprateek9" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pranjalprateek6&show_icons=true&theme=gruvbox&hide_border=true" /></p>
+<br>
+</br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sidsharma2002&theme=gruvbox&hide_border=true" /></p>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pranjalprateek6&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalprateek6&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+<br/>  
