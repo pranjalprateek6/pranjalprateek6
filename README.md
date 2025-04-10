@@ -9,7 +9,7 @@
 
 # 💡 About Me
 
-Hi, I’m Pranjal 💡  
+Hi, I’m Pranjal Prateek
 I work remotely with a US-based team, blending AI, ML, and LLMs to build smart, useful products.  
 Occasionally talking to LLMs more than I talk to people.
 
