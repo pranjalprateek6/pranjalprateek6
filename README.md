@@ -16,7 +16,7 @@ Occasionally talking to LLMs more than I talk to people.
 Sometimes I break things. Sometimes I fix them.  
 Sometimes the code runs and I have no idea why — but hey, it works.  
 
-Still figuring it all out — one model at a time.
+Still figuring it all out, one model at a time.
 
 ---
 
